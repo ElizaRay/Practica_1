@@ -6,5 +6,5 @@ Numero de control: 18120074
 CURP: RARE000618MVZYMLA8
 
 
-# Branch 2 (Linea2)
+# Branch 2 (LInea2)
 Nos encontramos en el segundo branch , no estamos en el main
